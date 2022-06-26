@@ -9,6 +9,9 @@
 - 💞️ I’m looking to collaborate with someone 😥
 - 📫 .....................^-^..............................
 
+
+![Frinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinagafrinaldo&show_icons=true&theme=radical)
+
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 <!---
 Sinagafrinaldo/Sinagafrinaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
