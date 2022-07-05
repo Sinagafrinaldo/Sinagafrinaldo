@@ -1,12 +1,12 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20^-^&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20-%20^-^&fontSize=90)
 
 
 - 👋 Hi, I’m @Sinagafrinaldo
 - 👀 I’m interested in Web and mobile apps
 - 🌱 I’m currently learning JS family :)
-- 💞️ I’m looking to collaborate with someone 😥
+-    Oraet Labora
 - 📫 .....................^-^..............................
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinagafrinaldo&layout=compact)](https://github.com/sinagafrinaldo/github-readme-stats)
